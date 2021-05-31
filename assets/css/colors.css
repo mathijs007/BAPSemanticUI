@@ -1,0 +1,9 @@
+header, footer, .ui.five.item.menu {
+    background-color: black;
+}
+
+main
+{
+    background-color: white;
+    color: black;
+}
